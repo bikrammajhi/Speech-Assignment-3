@@ -1,5 +1,7 @@
 # Speech-Assignment-3
 This repo is for Speech Understanding course Assignment 4 on fake audio detection at IIT Jodhpur in Spring 2024.
+- **Gradio Demo:** [Link]([https://gradio.app/hub/yourusername/your-model](https://huggingface.co/spaces/iiserkbikram/Audio-DeepFake))
+
 
 ## Pretrained Model(on Custom dataset)
 AUC: 0.3576023391812866
